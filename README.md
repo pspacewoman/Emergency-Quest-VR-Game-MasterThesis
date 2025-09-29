@@ -4,7 +4,7 @@
 ![University](https://img.shields.io/badge/University_of_Siegen-Germany-red)
 ![Year](https://img.shields.io/badge/2025-orange)
 
-# 🚑 VR First Aid Training Prototype – Master’s Thesis
+# 🚑 VR First Aid Training Prototype – HCI Master’s Thesis (2025)
 
 **Emergency Quest VR Game**
 
@@ -14,6 +14,17 @@ The project explores the potential of **Virtual Reality (VR)** as a training too
 
 Using **Unity 6.1 (URP)** and deployed on **Meta Quest 3**, the prototype simulates an urban road accident scenario where players act as first responders.  
 Core interactions include securing the accident scene, calling emergency services, and assessing the victim.  
+
+---
+
+## 📌 My Responsibility Overview
+- Using **Unity 6.1 (URP)** built prototype for **Meta Quest 3** device.
+  
+- Designed game levels simulating first-aid scenarios with progression mechanics and narrative-driven gameplay loops.
+
+- Authored design documentation for mechanics, UI, and interaction flows, ensuring alignment with training goals.
+
+- Conducted iterative playtests with students; applied feedback to refine challenge balance and player experience.
 
 ---
 
@@ -38,9 +49,6 @@ Core interactions include securing the accident scene, calling emergency service
     <td><img width="600" height="1400" alt="Screenshot 2025-07-10 at 12 59 11" src="https://github.com/user-attachments/assets/4260fabe-511f-429a-881a-50b6d1f6ece6" /></td>
   </tr>
 </table>
-
-
-
 
 ---
 
