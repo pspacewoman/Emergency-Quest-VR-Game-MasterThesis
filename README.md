@@ -1,3 +1,8 @@
+**NOT FOR FURTHER USAGE**
+
+**Attribution-NonCommercial-NoDerivatives 4.0 International**
+
+
 ![Unity](https://img.shields.io/badge/Unity-6.0-black?logo=unity)
 ![Thesis](https://img.shields.io/badge/Master's_Thesis-✓-blue)
 ![Degree](https://img.shields.io/badge/MSc.-Human--Computer--Interaction-green)
