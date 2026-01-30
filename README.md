@@ -9,7 +9,7 @@
 ![University](https://img.shields.io/badge/University_of_Siegen-Germany-red)
 ![Year](https://img.shields.io/badge/2025-orange)
 
-# 🚑 VR First Aid Training Prototype – HCI Master’s Thesis (2025)
+# VR First Aid Training Prototype – HCI Master’s Thesis (2025)
 
 **Emergency Quest VR Game**
 
